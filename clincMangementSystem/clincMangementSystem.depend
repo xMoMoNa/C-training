@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1691227753 source:d:\program_document\workspace\codeblocks\clincmangementsystem\clincmangementsystem_program.c
+	"stdio.h"
+	"stdlib.h"
+	"clincMangementSystem_interface.h"
+
+1691146785 d:\program_document\workspace\codeblocks\clincmangementsystem\clincmangementsystem_interface.h
+
+1691227772 source:d:\program_document\workspace\codeblocks\clincmangementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"config.h"
+	"clincMangementSystem_interface.h"
+
+1691146951 d:\program_document\workspace\codeblocks\clincmangementsystem\config.h
+

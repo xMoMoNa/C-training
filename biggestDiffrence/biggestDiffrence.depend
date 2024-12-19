@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683025475 source:d:\program_document\workspace\codeblocks\biggestdiffrence\main.c
+	<stdio.h>
+	<stdlib.h>
+

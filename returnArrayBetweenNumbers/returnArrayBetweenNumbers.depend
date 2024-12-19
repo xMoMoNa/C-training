@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678030378 source:d:\program_document\workspace\codeblocks\returnarraybetweennumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667449888 source:d:\program_document\workspace\codeblocks\sumnumberbetweentwonumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

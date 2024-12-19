@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667822575 source:d:\program_document\workspace\codeblocks\checkbaseoftwo\main.c
+	<stdio.h>
+	<stdlib.h>
+

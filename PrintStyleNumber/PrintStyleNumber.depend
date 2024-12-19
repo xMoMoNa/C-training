@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667904688 source:d:\program_document\workspace\codeblocks\printstylenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

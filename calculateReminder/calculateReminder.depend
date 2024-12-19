@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667616439 source:d:\program_document\workspace\codeblocks\calculatereminder\main.c
+	<stdio.h>
+	<stdlib.h>
+

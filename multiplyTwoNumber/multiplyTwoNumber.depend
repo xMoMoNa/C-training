@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668553636 source:d:\program_document\workspace\codeblocks\multiplytwonumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

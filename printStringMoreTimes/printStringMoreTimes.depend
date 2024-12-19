@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683031172 source:d:\program_document\workspace\codeblocks\printstringmoretimes\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669604761 source:d:\program_document\workspace\codeblocks\bitmath\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667821894 source:d:\program_document\workspace\codeblocks\checkperfctsquare\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668192595 source:d:\program_document\workspace\codeblocks\pirntbinary\main.c
+	<stdio.h>
+	<stdlib.h>
+

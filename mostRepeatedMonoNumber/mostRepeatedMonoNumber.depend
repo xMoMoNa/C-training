@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681114638 source:d:\program_document\workspace\codeblocks\mostrepeatedmononumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
